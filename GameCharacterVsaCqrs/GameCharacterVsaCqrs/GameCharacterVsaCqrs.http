@@ -1,0 +1,6 @@
+@GameCharacterVsaCqrs_HostAddress = http://localhost:5223
+
+GET {{GameCharacterVsaCqrs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
