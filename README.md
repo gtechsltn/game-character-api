@@ -1,5 +1,9 @@
 # Game Character API
 
+https://github.com/gtechsltn/game-character-api
+
+https://github.com/gtechsltn/SimpleUnitTestingExample
+
 Vertical Slice Architecture Changes EVERYTHING! 🤯
 
 https://www.youtube.com/watch?v=C05n6kmdsvA
