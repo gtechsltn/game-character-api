@@ -13,11 +13,11 @@ https://docs.google.com/document/d/1IK3qYmw-mcx6CXCG_RZIOlpAGKUclB1pqKgKD0ncgWY
 ## Git commands to push code from existing non-empty folder/directory to GitHub
 ```
 git init
-git add .
 git remote add origin https://github.com/gtechsltn/game-character-api.git
 git remote set-url origin https://github.com/gtechsltn/game-character-api.git
 git status
 git branch
+git add .
 git commit -m "Init source"
 git push --set-upstream origin master
 git branch --set-upstream-to=origin/master
